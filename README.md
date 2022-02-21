@@ -1,2 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellon-M&layout=compact&langs_count=8&theme=gotham&hide=html,blade,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231600F7&size=24&duration=4565&center=true&width=500&lines=Welcome+to+the+dark...)](https://git.io/typing-svg)
 
